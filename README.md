@@ -25,13 +25,13 @@
                          '-'
 ```
 
-Projeto desenvolvido pelo squed **Code Divers** para a matéri de Data Structures and Algorithms. Bora passar com 10 🚀!!!
+Projeto desenvolvido pelo squad **Code Divers** para a matéria de Data Structures and Algorithms. Bora passar com 10 🚀!!!
 
 ---
 
 ## Projetos
 
-- (Tabuada)[]
+- (Tabuada)[tabuada-validada.c]
 - (Menu Interativo)[menu-interativo.c]
 - (Login Simples)[login-simples.c]
 
