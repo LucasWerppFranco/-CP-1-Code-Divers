@@ -31,9 +31,9 @@ Projeto desenvolvido pelo squad **Code Divers** para a matéria de Data Structur
 
 ## Projetos
 
-- (Tabuada)[tabuada-validada.c]
-- (Menu Interativo)[menu-interativo.c]
-- (Login Simples)[login-simples.c]
+- (Tabuada)[tabuada-validada]
+- (Menu Interativo)[menu-interativo]
+- (Login Simples)[login-simples]
 
 ---
 ## Membros do Squad
