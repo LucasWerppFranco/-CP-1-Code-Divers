@@ -36,6 +36,7 @@ Projeto desenvolvido pelo squad **Code Divers** para a matéria de Data Structur
 - (Login Simples)[login-simples.c]
 
 ---
+
 ## Membros do Squad
 
 Lucas Werpp Franco
@@ -46,3 +47,5 @@ RM: 566362
 
 Massayoshi Bando Fogaça e Silva 
 RM: 561779
+
+---
